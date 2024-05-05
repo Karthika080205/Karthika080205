@@ -10,12 +10,7 @@
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-3670A0?style=for-the-badge&logo=java&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Figma](https://img.shields.io/badge/figma-3670A0?style=for-the-badge&logo=figma&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/sql-3670A0?style=for-the-badge&logo=sql&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-3670A0?style=for-the-badge&logo=c++&logoColor=ffdd54)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=karthika080205&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=karthika080205&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=karthika080205&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## Repo
-![](<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from India</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,11 +18,10 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karthika080205&show_icons=true&locale=en" alt="karthika080205" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karthika080205&" alt="karthika080205" /></p>)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karthika080205&" alt="karthika080205" /></p>
 
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=karthika080205&icon=0&color=0)](https://visitcount.itsvg.in)
